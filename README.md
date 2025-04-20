@@ -26,6 +26,8 @@ A full-stack **MERN** blogging application that allows users to create, edit, an
 - **Cloudinary (Optional)** – Store and manage uploaded images.
 
 ## 📸 Preview
+![Screenshot 2025-04-20 210623](https://github.com/user-attachments/assets/65b62899-07d6-4c33-8bca-3ee3d17a36ad)
+
 
 ## ⚡ Getting Started
 
